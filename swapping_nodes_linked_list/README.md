@@ -1,10 +1,12 @@
+# Swapping Nodes in a Linked List
 You are given the head of a linked list, and an integer k.
 
 Return the head of the linked list after swapping the values of the kth node from the beginning and the kth node from the end (the list is 1-indexed).
 
  
 
-Example 1:
+## Example 1:
+![image](https://github.com/Xaldovah/leetcode_exercises/assets/123385783/6748abde-d4b6-461c-8a92-80242f34f3c5)
 
 
 Input: head = [1,2,3,4,5], k = 2
@@ -15,7 +17,7 @@ Input: head = [7,9,6,6,7,8,3,0,9,5], k = 5
 Output: [7,9,6,6,8,7,3,0,9,5]
  
 
-Constraints:
+## Constraints:
 
 The number of nodes in the list is n.
 1 <= k <= n <= 105
