@@ -1,7 +1,7 @@
 # Minimum Cost to cut a stick
 Given a wooden stick of length n units. The stick is labelled from 0 to n. For example, a stick of length 6 is labelled as follows:
-![image](https://github.com/Xaldovah/leetcode_exercises/assets/123385783/e0efa810-e7d3-4593-93c2-a2721fec9a6b)
 
+![image](https://github.com/Xaldovah/leetcode_exercises/assets/123385783/e0efa810-e7d3-4593-93c2-a2721fec9a6b)
 
 Given an integer array cuts where cuts[i] denotes a position you should perform a cut at.
 
