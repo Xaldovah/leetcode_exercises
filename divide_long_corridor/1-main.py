@@ -14,6 +14,6 @@ result2 = solution.numberOfWays(corridor2)
 print(result2)  # Output: 1
 
 # Example 3
-corridor3 = "SPSPS"
+corridor3 = "S"
 result3 = solution.numberOfWays(corridor3)
 print(result3)  # Output: 0
